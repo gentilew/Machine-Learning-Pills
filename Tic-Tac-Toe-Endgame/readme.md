@@ -20,6 +20,6 @@ I've compared the performances of some machine learning models e.g. SVM, Decisio
 
 The result is in the image below.
 
-
+<img src="https://github.com/gentilew/Machine-Learning-Pills/blob/master/Tic-Tac-Toe-Endgame/output.png" width="60%" height="60%" alt="">
 
 
