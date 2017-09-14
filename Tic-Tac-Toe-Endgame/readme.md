@@ -14,9 +14,9 @@ https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
 
 # The Solution:
 
-I've create a Python module that transform the literal initial dataset into a numeric dataset, then I’ve divided this dataset into training set and validation set with Cross Validation technique.
+I've create a Python module that transform the literal initial dataset into a numeric dataset, then I’ve divided this dataset into training set and validation set with <b>Cross Validation</b> technique.
 
-I've compared the performances of some machine learning models e.g. SVM, Decision Tree and Neural Network, using three values for the training set: 20%, 50%, 80%
+I've compared the performances of some machine learning models e.g. <b>SVM, Decision Tree and Neural Network</b>, using three values for the training set: 20%, 50%, 80%
 
 The result is in the image below.
 
@@ -39,4 +39,8 @@ Download
 </ul>
 
 ### Acknowledgement
+Data
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. 
+
+Supervised Learning
+<a href="http://scikit-learn.org/stable/supervised_learning.html#supervised-learning" target="_blank">Scikit-Learn</a>
