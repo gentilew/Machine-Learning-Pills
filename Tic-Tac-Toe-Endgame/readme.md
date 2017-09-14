@@ -22,4 +22,18 @@ The result is in the image below.
 
 <img src="https://github.com/gentilew/Machine-Learning-Pills/blob/master/Tic-Tac-Toe-Endgame/output.png" width="60%" height="60%" alt="">
 
+## How To Use:
 
+Download 
+<ul>
+<li>TicTacToe_Predictor.py</li> 
+<li>TicTacToe_Dataset.csv </li>
+</ul>
+
+## Requirements
+<ul>
+<li>Python V. 2.7 or later</li>
+<li>pandas V. 0.19 or later</li>
+<li>matplotlib V. 1.5 or later</li>
+<li>scikit_learn V.0.18 or later </li>
+</ul>
