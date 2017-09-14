@@ -1,6 +1,6 @@
 # Machine-Learning-Pills
 
-![Screenshot](robot.png)
+![alt text](https://github.com/gentilew/Machine-Learning-Pills/blob/master/Robot.png)
 
 ## Welcome to the Machine Learning Pills
 ## This Repository contains examples of Machine Learning applications.
