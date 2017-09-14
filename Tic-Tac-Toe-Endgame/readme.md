@@ -37,3 +37,6 @@ Download
 <li>matplotlib V. 1.5 or later</li>
 <li>scikit_learn V.0.18 or later </li>
 </ul>
+
+### Acknowledgement
+Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. 
