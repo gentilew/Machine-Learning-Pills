@@ -1,5 +1,5 @@
 # The Problem:
-Create a <i>Machine</i> that received an input a sequence of play can predict who is the winner (X or O)
+Create a <i>Machine</i> that received as input a play sequence, can predict who is the winner (X or O)
 
 This picture summarize the problem
 <img src="https://github.com/gentilew/Machine-Learning-Pills/blob/master/Tic-Tac-Toe-Endgame/game_seq.png" alt="">
@@ -14,7 +14,7 @@ https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
 
 # The Solution:
 
-I've create a Python module that transform the literal initial dataset into a numeric dataset, then I’ve divided this dataset into training set and validation set with <b>Cross Validation</b> technique.
+I've created a Python module that transforms the literal initial dataset into a numeric dataset, then I’ve divided this dataset onto training set and validation set with <b>Cross Validation</b> technique.
 
 I've compared the performances of some machine learning models e.g. <b>SVM, Decision Tree and Neural Network</b>, using three values for the training set: 20%, 50%, 80%
 
